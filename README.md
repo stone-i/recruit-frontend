@@ -2,7 +2,7 @@
 
 **(주)스톤아이**는 운동 회원권을 모바일 앱으로 구매할 수 있게 해주는 O2O서비스 **다짐(多Gym)**을 개발하고 있습니다.
 
-<img src="https://cloud.githubusercontent.com/assets/8545248/23545804/34b6d3ea-0040-11e7-9f9e-2d1d9bb57b09.png" width="250"> <img src="https://cloud.githubusercontent.com/assets/8545248/23545805/34b8047c-0040-11e7-88fd-b478836fd7dc.png" width="250"> <img src="https://cloud.githubusercontent.com/assets/8545248/23545806/34c570bc-0040-11e7-8e3c-00e2a74846e3.png" width="250">
+<img src="https://cloud.githubusercontent.com/assets/8545248/23545804/34b6d3ea-0040-11e7-9f9e-2d1d9bb57b09.png" width="250"><img src="https://cloud.githubusercontent.com/assets/8545248/23545805/34b8047c-0040-11e7-88fd-b478836fd7dc.png" width="250"><img src="https://cloud.githubusercontent.com/assets/8545248/23545806/34c570bc-0040-11e7-8e3c-00e2a74846e3.png" width="250">
 
 '다짐'은 운동시설(헬스장, 복싱, 골프 등)의 정보를 모바일을 통해 확인하고 바로 결제를 할 수 있을 뿐만 아니라, 통합 회원권을 제공하여 2~3개의 운동시설을 동시에 저렴하게 이용할 수 있는 서비스를 제공하고 있습니다. 올해 초, Android/iOS 네이티브 앱을 출시하여 현재 출시 한 달 만에 서울 전 지역을 포함해 일산, 분당 등 수도권 지역의 **50여 개 운동 시설**과 제휴를 맺었고 하루하루 빠르게 그 수를 늘려가고 있습니다. 실제로 제휴 센터들에서는 기존 경쟁 업체들에 비해 좋은 평가를 해주시고 있고, 저희도 경쟁력과 차별점을 충분히 갖추고 있다고 생각하고 있습니다.
 
