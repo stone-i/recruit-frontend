@@ -24,10 +24,9 @@
 
 스톤아이는 현재 아래와 같은 기술 및 도구들을 사용하고 있습니다.
 
-- Back End : AWS, Node.js, Express.js, MongoDB, Redis, NginX, Fluentd
-- Android : Kotlin, Retrofit2, RxJava, Dagger, Realm
-- iOS : Swift, Alamofire, RxSwift, Realm
-
+* Back End : AWS, Node.js, Express.js, MongoDB, Redis, NginX, Fluentd
+* Android : Kotlin, Retrofit2, RxJava, Dagger, Realm
+* iOS : Swift, Alamofire, RxSwift, Realm
 * 기타 툴 : Firebase,  Fabric Crashlytics, Trello, Slack, Zeplin
 
 저희가 지금 찾고 있는 사람은 다음과 같습니다.
