@@ -1,6 +1,6 @@
 # 스톤아이에서 함께 성장할 Front End 개발자를 찾고 있습니다.
 
-**(주)스톤아이**는 운동 회원권을 모바일 앱으로 구매할 수 있게 해주는 O2O 서비스 **다짐(多Gym)**을 서비스하고 있습니다.
+**(주)스톤아이**는 운동시설 회원권을 모바일 앱으로 구매할 수 있게 해주는 O2O 서비스 **다짐(多Gym)**을 서비스하고 있습니다.
 
 <img src="https://cloud.githubusercontent.com/assets/8545248/23545804/34b6d3ea-0040-11e7-9f9e-2d1d9bb57b09.png" width="250"><img src="https://cloud.githubusercontent.com/assets/8545248/23545805/34b8047c-0040-11e7-88fd-b478836fd7dc.png" width="250"><img src="https://cloud.githubusercontent.com/assets/8545248/23545806/34c570bc-0040-11e7-8e3c-00e2a74846e3.png" width="250">
 
@@ -57,10 +57,10 @@
 다음과 같은 분을 우대합니다.
 
 *  JWT를 사용한 사용자 인증 프로세스를 이해하고 계신 분
-* Vue.js, React.js,  Angular2.js 등 Front-end Framework를 사용해본 경험이 있으신 분
-* 오픈소스 프로젝트 참여 경험이 있으신 분
-* 다양한 개발자 커뮤니티 활동을 하고 계신 분
-* 살면서 "넌 참 평범하구나"라는 말 따위 들어본 적 없으신 분
+*  Vue.js, React.js,  Angular2.js 등 Front-end Framework를 사용해본 경험이 있으신 분
+*  오픈소스 프로젝트 참여 경험이 있으신 분
+*  다양한 개발자 커뮤니티 활동을 하고 계신 분
+*  살면서 "넌 참 평범하구나"라는 말 따위 들어본 적 없으신 분
 
  저희가 하는 일과 앞으로의 계획, 성장하고 있는 방법, 추구하는 가치와 철학 등을 모두 설명하기엔 이 페이지에 못 담은 내용이 너무나도 많습니다. 마찬가지로 이력서 몇 장과 포트폴리오만으로 당신을 판단하는 건 너무 힘든 일입니다. [recruit@stone-i.co.kr](mailto:recruit@stone-i.co.kr)로 연락해주세요. 편하게 커피 한잔하면서 이야기 나눌 시간을 가졌으면 합니다. 이 외 궁금한 점 또한 메일로 주시면 답변드리겠습니다.
 
