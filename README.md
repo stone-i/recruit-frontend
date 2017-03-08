@@ -54,8 +54,8 @@
 
 다음과 같은 분을 우대합니다.
 
-*  JWT를 사용한 사용자  인증 프로세스를 이해하고 계신 분
-* Vue.js, React.js,  Angular2.js 등 Front-end Framework을 사용해본 경험이 있으신 분
+*  JWT를 사용한 사용자 인증 프로세스를 이해하고 계신 분
+* Vue.js, React.js,  Angular2.js 등 Front-end Framework를 사용해본 경험이 있으신 분
 * 오픈소스 프로젝트 참여 경험이 있으신 분
 * 다양한 개발자 커뮤니티 활동을 하고 계신 분
 * 살면서 "넌 참 평범하구나"라는 말 따위 들어본 적 없으신 분
