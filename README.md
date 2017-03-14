@@ -47,7 +47,7 @@
 저희가 지금 찾고 있는 사람은 다음과 같습니다.
 
 * HTML, CSS에 대한 이해도가 있으신 분
-* JavaScript, ES5, ES6 문법을 이해하고 사용하시는 분
+* JavaScript, ES5, ES6 문법을 잘 이해하고 능숙히 사용하시는 분
 * REST API와 JSON 사용에 익숙하신 분
 * 이미 개발 된 '다짐' 서버의 API를 이용해 SPA(Single Page Application) **Front End 로직 개발**을 담당해주실 분
 * '다짐' 웹 버전의 디자인 **퍼블리싱** (퍼블리셔 작업)을 담당해주실 분(스톤아이는 Sketch+Zeplin을 사용 중입니다)
