@@ -1,6 +1,6 @@
 # 스톤아이에서 함께 성장할 Front End 개발자를 찾고 있습니다.
 
-**(주)스톤아이**는 운동시설 회원권을 모바일 앱으로 구매할 수 있게 해주는 O2O 서비스 *다짐(多Gym)*을 서비스하고 있습니다.
+(주)스톤아이는 운동시설 회원권을 모바일 앱으로 구매할 수 있게 해주는 O2O 서비스 다짐(多Gym)을 서비스하고 있습니다.
 
 <img src="https://cloud.githubusercontent.com/assets/8545248/23545804/34b6d3ea-0040-11e7-9f9e-2d1d9bb57b09.png" width="250"><img src="https://cloud.githubusercontent.com/assets/8545248/23545805/34b8047c-0040-11e7-88fd-b478836fd7dc.png" width="250"><img src="https://cloud.githubusercontent.com/assets/8545248/23545806/34c570bc-0040-11e7-8e3c-00e2a74846e3.png" width="250">
 
